@@ -1,0 +1,16 @@
+# Virtual Environement "This means ignore the folder named .venv"
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS Clutter
+.DS_Store
+
+
+# Testing Pytest cache
+.pytest_cache/
+
+# Raw download data
+data/raw/
